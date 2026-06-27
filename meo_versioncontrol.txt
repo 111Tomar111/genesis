@@ -1,0 +1,11 @@
+********meo********
+
+version 0.1
+
+this is the start of something as great as apple
+HARE KRSNA HARE KRSNA KRSNA KRSNA HARE HARE
+HARE RAMA HARE RAMA RAMA RAMA HARE HARE
+
+THIS VERSION IS TO BE MADE AS A CLI 
+without a front end
+that have a calculator and a stone paper scisorr game
